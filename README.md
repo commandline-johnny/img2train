@@ -76,6 +76,7 @@ If you found this script useful and would like to support its continued developm
 
 **[Click here to send a tip](https://buymeacoffee.com/commandline_johnny)**
 ![](./bmc_qr.png)
+
 Your support is greatly appreciated!
 
 ## License
