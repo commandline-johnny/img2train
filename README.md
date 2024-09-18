@@ -13,6 +13,7 @@ This script processes images in one or more directories, detects faces, and resi
 
 ## Known Issues:
 - It thinks vaginas are faces. Ordinarily this is a problem but not for my use case. This will be fixed at a later date, I'm sure.
+- It has trouble detecting the intended subject when multiple faces are present. I recommend manual cropping until I can add some intelligence to the script.
 
 ## Usage
 
