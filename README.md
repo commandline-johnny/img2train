@@ -1,5 +1,5 @@
 
-# Face Detection and Image Augmentation Script
+# img2train - Automates cropping and reszing photos of people for use in AI model training
 
 This script processes images in one or more directories, detects faces, and resizes the images to 1024x1024. It also generates augmented versions of the images, including flipped and rotated variations. The script is designed to handle multiple directories and works seamlessly with Windows paths.
 
